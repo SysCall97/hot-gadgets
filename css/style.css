@@ -1,0 +1,12 @@
+nav{
+    margin: 1rem 6rem;
+}
+
+.navbar img{
+    width: 8rem;
+}
+
+.nav-item{
+    color: #777 !important;
+    font-weight: 500;
+}
