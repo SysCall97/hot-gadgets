@@ -6,7 +6,7 @@
 }
 
 .navbar{
-    padding-top: 3rem;
+    padding-top: 2%;
     width: 90%;
     margin-right: 5%;
     margin-left: 5%;
@@ -78,4 +78,30 @@ ol.carousel-indicators li.active {
 .card-footer, .card-img-top{
     background-color: white;
     border: none;
+}
+
+.cat-hr{
+    margin-top: 0;
+    width: 7%;
+    height: 6px;
+    background-image: linear-gradient(to right, #ffc51e, #ff9c35);
+    border-radius: 5px;
+}
+
+.cat .col-md-6 img{
+    width: 90%;
+}
+
+.cat-inner img{
+    box-shadow: 2px 2px 40px lightgray;
+    padding: 20%;
+    margin-top: 10%;
+}
+
+#bag {
+    border-radius: 5px 15px 5px 30px;
+}
+
+.cat-col-2{
+    border-radius: 15px 5px 30px 5px;
 }
