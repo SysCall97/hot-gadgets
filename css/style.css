@@ -76,6 +76,10 @@ ol.carousel-indicators li.active {
     border-radius: 15%;
 }
 
+.card-text{
+    text-align: center;
+}
+
 .card-footer, .card-img-top{
     background-color: white;
     border: none;
