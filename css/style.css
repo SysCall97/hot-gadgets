@@ -91,7 +91,7 @@ ol.carousel-indicators li.active {
 
 .cat-hr{
     margin-top: 0;
-    width: 7%;
+    width: 5rem;
     height: 6px;
     background-image: linear-gradient(to right, #ffc51e, #ff9c35);
     border-radius: 5px;
